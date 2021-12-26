@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b2682c2.chunk.css",
+    "main.js": "/static/js/main.02ec1cdb.chunk.js",
+    "main.js.map": "/static/js/main.02ec1cdb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a8eca24e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a8eca24e.js.map",
+    "static/js/2.46deb8e5.chunk.js": "/static/js/2.46deb8e5.chunk.js",
+    "static/js/2.46deb8e5.chunk.js.map": "/static/js/2.46deb8e5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6b2682c2.chunk.css.map": "/static/css/main.6b2682c2.chunk.css.map",
+    "static/js/2.46deb8e5.chunk.js.LICENSE.txt": "/static/js/2.46deb8e5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Poppins-Regular.8081832f.ttf",
+    "static/media/about.6f5e982a.svg": "/static/media/about.6f5e982a.svg",
+    "static/media/github.2f227905.svg": "/static/media/github.2f227905.svg",
+    "static/media/home.12999967.svg": "/static/media/home.12999967.svg",
+    "static/media/instagram.42bf9677.svg": "/static/media/instagram.42bf9677.svg",
+    "static/media/linkedin.605f60c7.svg": "/static/media/linkedin.605f60c7.svg",
+    "static/media/logo.614d4b7a.png": "/static/media/logo.614d4b7a.png",
+    "static/media/portfolio.26241ba5.svg": "/static/media/portfolio.26241ba5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8eca24e.js",
+    "static/js/2.46deb8e5.chunk.js",
+    "static/css/main.6b2682c2.chunk.css",
+    "static/js/main.02ec1cdb.chunk.js"
+  ]
+}
